@@ -1,4 +1,4 @@
-<img align="center" alt="Nub Bot banner" src="https://cdn.discordapp.com/attachments/1042013863886999602/1121271560855097374/Text.png">
+<img align="center" alt="Nub Bot banner" src="https://cdn.discordapp.com/attachments/1042013863886999602/1121271560855097374/Text.png?ex=6ab3e7c4&is=6ab29644&hm=6a3ff1c74f6ef2602d8a53c6029505f1990ac78aecdbda40bc99e12482acea01">
 
 <p align="center">
 <img align="center" alt="GitHub issues" src="https://img.shields.io/github/issues/thelegendev/Nub-Bot?style=for-the-badge"> 
@@ -8,6 +8,14 @@
 <p align="center">
 A multipurpose discord bot based on discord.js v14.
 </p>
+
+<hr>
+
+<h3 align="center">
+⚠️ This repository is no longer maintained as of June 5, 2024.
+</h3>
+
+<br>
 
 > **Warning**
 > If you plan to host a public instance of Nub Bot by using our source code, you are not allowed to use either Nub Bot's username or its app icon.
